@@ -1,0 +1,4 @@
+cmake -DBUNDLE=cudaminer -DCOMPUTE=35
+https://github.com/Kitware/CMake.git
+https://github.com/ethereum-mining/ethminer.git
+https://github.com/Atrides/eth-proxy.git
